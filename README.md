@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a software developer at Luby Software, currently working in full stack applications
+💡 &nbsp; I'm a software developer at B4A - Beauty For All, Beautytech startup , currently working in front-end applications
 patterns.\
 🎓 &nbsp;I have a bachelor's degree in information systems 
 🌱
