@@ -6,6 +6,7 @@
 💡 &nbsp; I'm a software developer - currently working in front-end applications
 patterns.\
 🎓 &nbsp;I have a bachelor's degree in information systems 
+🎓 &nbsp;I have a postgratuate degree in Full Stack Development
 🌱
 ✉️ &nbsp;You can email me at rodrigonottoboni@gmail.com. I'll try to respond as soon as possible!\
 
